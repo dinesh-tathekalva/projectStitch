@@ -6,24 +6,3 @@ export const setData = (setData) => {
         payload: setData
     }
 }
-
-export const selectData = (selectedData) => {
-    return {
-        type: ActionTypes.SELECT_DATA,
-        payload: selectedData
-    }
-}
-
-export const updateData = (updatedData) => {
-    return {
-        type: ActionTypes.UPDATE_DATA,
-        payload: updatedData
-    }
-}
-
-export const deleteData = (deletedData) => {
-    return {
-        type: ActionTypes.DELETE_DATA,
-        payload: deletedData
-    }
-}
