@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Clone the project: git clone https://github.com/dinesh-tathekalva/projectstitch.git
+
 In the project directory, you can run:
 
 ### `npm start`
